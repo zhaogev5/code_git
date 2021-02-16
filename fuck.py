@@ -1,1 +1,0 @@
-print('every one is stupid')
